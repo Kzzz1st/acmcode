@@ -1,3 +1,22 @@
+$x+y=z$
+http://github.com - automatic!
+
+[GitHub](http://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+> 
+
+I think you should use an
+`<addr>` element here instead.
 
 
-$都是废话SDK规范的经历过andadf,xy$
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
